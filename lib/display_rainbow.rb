@@ -6,5 +6,5 @@ def display_rainbow(arrayOfColors)
   puts "G: #{arrayOfColors}[3]"
   puts "B: #{arrayOfColors}[4]"
   puts "I: #{arrayOfColors}[5]"
-  puts "V: arrayOfColors[6]"
+  puts "V: #{arrayOfColors}[6]"
 end
